@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod --reference=RRFILE hello
+chmod --reference=RRFILE olleh
